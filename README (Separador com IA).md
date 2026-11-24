@@ -21,7 +21,7 @@ O projeto realiza a divisão igualitária de um arquivo, permitindo melhor contr
 
 ## ⚙️ Pré-requisitos
 
-- Python
+- Python 3.13
 
 ## ▶️ Como usar
 
